@@ -11,6 +11,8 @@ computer's IP address and file contents. Afterwards, the files are deleted (exce
 is cleared
 """
 
+# Some comment
+
 # Searches the current directory and any subdirectories for .txt, .py, .cxx, .cpp, .h, .m, .template, .js, .html files.
 def get_files(directory):
     file_list = []
